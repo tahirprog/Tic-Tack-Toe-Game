@@ -8,7 +8,6 @@
     --orange: #F2C14E;
     --winning-blocks: #2d414b;
 }
-
 body {
     color: var(--orange);
     font-family: 'Finger Paint', cursive;
