@@ -31,7 +31,6 @@ function boxClicked(e) {
         currentPlayer = currentPlayer == X_TEXT ? O_TEXT : X_TEXT
     }
 }
-
 const winningCombos = [
     [0,1,2],
     [3,4,5],
