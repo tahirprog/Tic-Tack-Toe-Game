@@ -63,7 +63,7 @@ function restart() {
         box.style.backgroundColor=''
     })
 
-    playerText.innerHTML = 'Tic Tac Toe'
+    playerText.innerHTML = 'Tic Tac '
 
     currentPlayer = X_TEXT
 }
